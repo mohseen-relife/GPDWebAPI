@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\bin\Debug\net8.0\Entities.dll
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\bin\Debug\net8.0\Entities.pdb
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.csproj.Up2Date
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\HP\Downloads\GPDWebAPI\GPDWebAPI\Core\DTO\obj\Debug\net8.0\ref\DTO.dll
